@@ -1,4 +1,4 @@
-# you-can-ride-a-bike
+# you-can't-ride-a-bike
 
 Hello! This project was made with my basic learning of SwiftUI, its so fun!
 
